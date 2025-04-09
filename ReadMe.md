@@ -108,3 +108,6 @@ src/
 - Add GitHub token support to avoid rate limiting
 - Format output as JSON or Markdown
 
+---
+
+###### Challenge from [roadmap.sh](https://roadmap.sh/projects/github-user-activity)
